@@ -8,3 +8,7 @@ This allows for the ability, at a glance, to see all the possible configurations
 
 I created this application because I did not feel like rummaging through drop list downs and having to swap the chosen temperatues scales to match what scale my number was in.
 I just wanted to type in a number and see it all laid out before me.
+
+THINGS YOU NEED TO RUN THIS!
+1. A windows environment
+2. .NET 6
